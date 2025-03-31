@@ -26,6 +26,11 @@ The **magic** lies within the **config section** of this project, where the core
 
 ---
 
+
+https://github.com/user-attachments/assets/577ca36c-652c-4d5c-b3d3-3e1ae4247047
+
+
+
 ## 📂 Project Structure
 ```bash
 📦 project-root
